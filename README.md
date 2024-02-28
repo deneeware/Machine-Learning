@@ -1,2 +1,2 @@
 # Python
-Python Data Wrangling Examples
+Machine Learning Examples
